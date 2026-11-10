@@ -16,3 +16,4 @@ Courtesy of Devin Roberts.
 
 - [Nobi Workshop Log](https://developmentindustries.org/blog): development history and project context.
 - [Nobi on Etsy](https://nobibot.etsy.com/listing/4578776218): the maker's commercial project listing. Check the listing for current sale details and terms.
+- [Try Nobi’s animated face](https://developmentindustries.org/#top): tap Nobi or choose an eye colour. This is a browser visualization of expressions, not a demonstration of finished hardware or owner-authenticated conversation.
